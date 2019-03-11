@@ -5,8 +5,10 @@ import javax.enterprise.context.ApplicationScoped;
 @ApplicationScoped
 public class GreetingService {
 
+    private static final String HELLO = "Hello ";
+
     public String greeting(String name) {
-        return "Hello " + name;
+        return HELLO + name;
     }
 
 }
