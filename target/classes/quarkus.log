@@ -1,0 +1,16 @@
+2019-03-07 18:30:13,867 aneeb getting-started-dev.jar[3534] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-07 18:30:13,963 aneeb getting-started-dev.jar[3534] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-07 18:30:14,289 aneeb getting-started-dev.jar[3534] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 422ms
+2019-03-07 18:30:14,416 aneeb getting-started-dev.jar[3534] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-07 18:30:14,423 aneeb getting-started-dev.jar[3534] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-07 18:30:14,475 aneeb getting-started-dev.jar[3534] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.718s. Listening on: http://127.0.0.1:8080
+2019-03-07 18:30:14,476 aneeb getting-started-dev.jar[3534] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-07 18:31:01,734 aneeb getting-started-dev.jar[3534] INFO  [io.quarkus] (Quarkus Shutdown Thread) Quarkus stopped in 0.004s
+2019-03-07 18:33:00,843 aneeb getting-started-dev.jar[3769] INFO  [io.qua.dep.QuarkusAugmentor] (main) Beginning quarkus augmentation
+2019-03-07 18:33:00,943 aneeb getting-started-dev.jar[3769] DEBUG [org.jbo.threads] (main) JBoss Threads version 3.0.0.Alpha4
+2019-03-07 18:33:01,267 aneeb getting-started-dev.jar[3769] INFO  [io.qua.dep.QuarkusAugmentor] (main) Quarkus augmentation completed in 424ms
+2019-03-07 18:33:01,406 aneeb getting-started-dev.jar[3769] DEBUG [org.xnio] (main) XNIO version 3.6.5.Final
+2019-03-07 18:33:01,413 aneeb getting-started-dev.jar[3769] DEBUG [org.xni.nio] (main) XNIO NIO Implementation Version 3.6.5.Final
+2019-03-07 18:33:01,461 aneeb getting-started-dev.jar[3769] INFO  [io.quarkus] (main) Quarkus 0.11.0 started in 0.716s. Listening on: http://127.0.0.1:8080
+2019-03-07 18:33:01,463 aneeb getting-started-dev.jar[3769] INFO  [io.quarkus] (main) Installed features: [cdi, resteasy]
+2019-03-10 08:00:52,291 aneeb getting-started-dev.jar[3769] INFO  [io.quarkus] (Quarkus Shutdown Thread) Quarkus stopped in 0.003s

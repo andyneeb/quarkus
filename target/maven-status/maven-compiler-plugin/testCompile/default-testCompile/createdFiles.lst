@@ -1,0 +1,3 @@
+org/acme/quickstart/GreetingResourceIT.class
+org/acme/quickstart/GreetingResourceTest.class
+org/acme/quickstart/NativeGreetingResourceIT.class
